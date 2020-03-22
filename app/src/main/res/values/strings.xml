@@ -5,4 +5,5 @@
     <string name="title_notifications">Notifications</string>
     <string name="title_balance">Баланс</string>
     <string name="title_hot">Горячее</string>
+    <string name="title_list">Лист</string>
 </resources>
